@@ -32,6 +32,8 @@ public class GET_TC001{
 		String StatusLine=rp.getStatusLine();
 		System.out.println("The Status Line is:"+StatusLine);
 		
+		
+		System.out.println("Test Go execute");
 	
 
 	}
